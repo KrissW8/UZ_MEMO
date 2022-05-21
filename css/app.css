@@ -61,13 +61,13 @@ footer::after {
     display: block;
     content: '';
     width: 100%;
-    background: #fbed60;
+    background: green;
     height: 20px;
 }
 
 header {
     margin: auto;
-    background: #ffff92;
+    background: lime;
     -webkit-box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
 
@@ -77,7 +77,7 @@ header {
 
 footer {
     margin: 20px 0 0 0;
-    background: #f5f5f5;
+    background: lime;
 }
 
 footer div {
